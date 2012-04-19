@@ -2,6 +2,7 @@ Pytroll
 =======
 
 A collection of python based tools for playing with satellite data. 
+http://pytroll.org
 
 This gina-pytroll repo is my (@dayne) attempt at learning the peices
 and how to set them up for my usage at GINA. 
@@ -14,12 +15,15 @@ A break down on what I'm trying to provide here:
 I'm not trying to recreate a how-to-use these tools.  See their project
 websites and their documentation for that. 
 
+# on my OSX install
+brew install gfortran # pyresample needs fortran
+
+
 The parts of Pytroll
 ====================
 
 pyresample
 ----------
-desc:     resample satellite data
 website:  http://code.google.com/p/pyresample/
 code:     git clone https://code.google.com/p/pyresample/
 

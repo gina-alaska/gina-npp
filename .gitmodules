@@ -7,3 +7,12 @@
 [submodule "pyorbital"]
 	path = pyorbital
 	url = https://github.com/mraspaud/pyorbital.git
+[submodule "pyresample"]
+	path = pyresample
+	url = https://code.google.com/p/pyresample/
+[submodule "scipy"]
+	path = scipy
+	url = https://github.com/scipy/scipy.git
+[submodule "numpy"]
+	path = numpy
+	url = https://github.com/numpy/numpy.git
