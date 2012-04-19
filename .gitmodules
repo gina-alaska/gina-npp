@@ -1,0 +1,9 @@
+[submodule "mipp"]
+	path = mipp
+	url = https://github.com/loerum/mipp.git
+[submodule "mpop"]
+	path = mpop
+	url = git://github.com/mraspaud/mpop.git
+[submodule "pyorbital"]
+	path = pyorbital
+	url = https://github.com/mraspaud/pyorbital.git
